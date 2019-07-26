@@ -1,0 +1,11 @@
+﻿  Game.cpp
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\korko\documents\visual studio 2017\projects\tetris\tetris\game.cpp(215): warning C4018: '<': signed/unsigned mismatch
+  Tetris.vcxproj -> C:\Users\Korko\Documents\Visual Studio 2017\Projects\Tetris\Tetris\Debug\Tetris.exe
